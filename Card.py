@@ -1,12 +1,6 @@
-"""
-CS 1026A Fall 2025
-Assignment 4: Blackjack
-Created by: Sahasra Chitya;a
-Student ID: schitya
-Student Number: 251512858
-File created: December 6th
 
 
+""
 this file creates the card class. a card just stores a rank and suit,
 and the class also lets us print cards out nicely and compare them.
 """
