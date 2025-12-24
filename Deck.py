@@ -1,12 +1,4 @@
 """
-CS 1026A Fall 2025
-Assignment 4: Blackjack
-Created by: Sahasra Chityala
-Student ID: schitya
-Student Number: 251512858
-File created: December 6th
-
-
 this file creates the deck class which basically just a list that holds
 many card objects. based on how many decks the game needs, we create
 52 cards per deck in a very specific order. the deck can also shuffle itself
