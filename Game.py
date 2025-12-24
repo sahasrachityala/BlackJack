@@ -1,12 +1,4 @@
 """
-CS 1026A Fall 2025
-Assignment 4: Blackjack
-Created by: Sahasra Chityala
-Student ID: schitya
-Student Number: 251512858
-File created: December 6th
-
-
 this file creates the game class, which controls the blackjack gameplay.
 it manages the deck, the playey and computers hand, turns,
 decision making, and also writes results to a file at the end of the game.
