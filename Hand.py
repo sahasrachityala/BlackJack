@@ -1,11 +1,4 @@
 """
-CS 1026A Fall 2025
-Assignment 4: Blackjack
-Created by: Sahasra Chityala
-Student ID: schitya
-Student Number: 251512858
-File created: December 6th
-
 this file creates the hand class which is a group of cards that a
 player is holding. it must be able to add cards and calculate the hand's
 total value and ace rules etc.
